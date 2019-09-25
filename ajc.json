@@ -1,0 +1,107 @@
+{
+  "categories": [
+       {
+        "id":"1",
+        "name":"World"
+       },
+       {
+        "id":"2",
+        "name":"U.S"
+       },
+       {
+        "id":"3",
+        "name":"Technology"
+       },
+       {
+        "id":"4",
+        "name":"Design"
+       },
+       {
+        "id":"5",
+        "name":"Culture"
+       },
+       {
+        "id":"6",
+        "name":"Business"
+       },
+       {
+        "id":"7",
+        "name":"Politics"
+       },
+       {
+        "id":"8",
+        "name":"Opinion"
+       },
+       {
+        "id":"9",
+        "name":"Science"
+       },
+       {
+        "id":"10",
+        "name":"Health"
+       },
+       {
+        "id":"11",
+        "name":"Style"
+       },
+       {
+        "id":"12",
+        "name":"Travel"
+       }
+  ],
+  "articles":[{
+      "categoryId":"2",
+      "title":"Modi on US trip",
+      "description":" Modi’s UNGA address on September 27, his first since 2014, and a meeting with Trump on September 24 are expected to be among the highlights of his trip. He will also address meetings on climate change and terrorism at the UNG"
+    },
+    {
+      "categoryId":"2",
+      "title":"Modi on US trip",
+      "description":"Modi’s UNGA address on September 27, his first since 2014, and a meeting with Trump on September 24 are expected to be among the highlights of his trip. He will also address meetings on climate change and terrorism at the UNG"
+    },
+    {
+      "categoryId":"2",
+      "title":"Modi on US trip",
+      "description":"Modi’s UNGA address on September 27, his first since 2014, and a meeting with Trump on September 24 are expected to be among the highlights of his trip. He will also address meetings on climate change and terrorism at the UNG"
+    },
+    {
+      "categoryId":"2",
+      "title":"Modi on US trip",
+      "description":" , nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum., nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum., nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum., nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum."
+    },
+    {
+      "categoryId":"1",
+      "title":"Honk kong now part of china",
+      "description":" , nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum., nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum., nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum., nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum."
+    }
+    ,
+    {
+      "categoryId":"1",
+      "title":"Honk kong now part of china",
+      "description":"Modi’s UNGA address on September 27, his first since 2014, and a meeting with Trump on September 24 are expected to be among the highlights of his trip. He will also address meetings on climate change and terrorism at the UNG"
+    },
+    {
+      "categoryId":"1",
+      "title":"Honk kong now part of china",
+      "description":" , nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum., nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum., nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum., nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum."
+    },
+    {
+      "categoryId":"1",
+      "title":"Honk kong now part of china",
+      "description":" , nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum., nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum., nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum., nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum."
+    }
+  ],
+  "featuredArticlesBanner":[
+    {
+      "categoryId":"1",
+      "title":"Us banner news",
+      "description":"Us banner newsUs banner newsUs banner newsUs banner newsUs banner news"
+    },
+    {
+      "categoryId":"2",
+      "title":"HCL merge all entities",
+      "description":"HCL merge all entities HCL merge all entities HCL merge all entities HCL merge all entities"
+    }
+  ]
+
+}
